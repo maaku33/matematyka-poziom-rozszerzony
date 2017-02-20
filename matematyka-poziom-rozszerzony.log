@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.15 (MiKTeX 2.9 64-bit) (preloaded format=pdflatex 2016.11.15)  14 FEB 2017 10:57
+This is pdfTeX, Version 3.14159265-2.6-1.40.15 (MiKTeX 2.9 64-bit) (preloaded format=pdflatex 2016.11.15)  20 FEB 2017 14:50
 entering extended mode
 **matematyka-poziom-rozszerzony.tex
 (matematyka-poziom-rozszerzony.tex
@@ -1031,27 +1031,30 @@ Overfull \hbox (2.89223pt too wide) in paragraph at lines 31--32
 $[]$ \OT4/cmr/m/n/12 s¡ rów-ne dla war-to-±ci pa-
  []
 
-) [2] (matematyka-poziom-rozszerzony.aux (TeX_files/chapter01.aux)) ) 
+) [2] [3] [4
+
+
+] (matematyka-poziom-rozszerzony.aux (TeX_files/chapter01.aux)) ) 
 Here is how much of TeX's memory you used:
  19911 strings out of 493698
  393344 string characters out of 3146023
- 406071 words of memory out of 3000000
+ 407071 words of memory out of 3000000
  22909 multiletter control sequences out of 15000+200000
  13990 words of font info for 41 fonts, out of 3000000 for 9000
  1025 hyphenation exceptions out of 8191
  48i,6n,54p,10387b,235s stack positions out of 5000i,500n,10000p,200000b,50000s
-{C:/Progra
-m Files/MiKTeX/fonts/enc/dvips/pl/plms.enc}{C:/Program Files/MiKTeX/fonts/enc/d
-vips/pl/plrm.enc}{C:/Program Files/MiKTeX/fonts/enc/dvips/pl/plmi.enc}{C:/Progr
-am Files/MiKTeX/fonts/enc/dvips/pl/plit.enc}<C:/Program Files/MiKTeX/fonts/type
-1/public/pl/plbx12.pfb><C:/Program Files/MiKTeX/fonts/type1/public/pl/plmi12.pf
-b><C:/Program Files/MiKTeX/fonts/type1/public/pl/plr12.pfb><C:/Program Files/Mi
-KTeX/fonts/type1/public/pl/plr8.pfb><C:/Program Files/MiKTeX/fonts/type1/public
-/pl/plsl12.pfb><C:/Program Files/MiKTeX/fonts/type1/public/pl/plsy10.pfb><C:/Pr
-ogram Files/MiKTeX/fonts/type1/public/pl/plti12.pfb>
-Output written on matematyka-poziom-rozszerzony.pdf (6 pages, 54330 bytes).
+{C:/Program Fi
+les/MiKTeX/fonts/enc/dvips/pl/plms.enc}{C:/Program Files/MiKTeX/fonts/enc/dvips
+/pl/plrm.enc}{C:/Program Files/MiKTeX/fonts/enc/dvips/pl/plmi.enc}{C:/Program F
+iles/MiKTeX/fonts/enc/dvips/pl/plit.enc}<C:/Program Files/MiKTeX/fonts/type1/pu
+blic/pl/plbx12.pfb><C:/Program Files/MiKTeX/fonts/type1/public/pl/plmi12.pfb><C
+:/Program Files/MiKTeX/fonts/type1/public/pl/plr12.pfb><C:/Program Files/MiKTeX
+/fonts/type1/public/pl/plr8.pfb><C:/Program Files/MiKTeX/fonts/type1/public/pl/
+plsl12.pfb><C:/Program Files/MiKTeX/fonts/type1/public/pl/plsy10.pfb><C:/Progra
+m Files/MiKTeX/fonts/type1/public/pl/plti12.pfb>
+Output written on matematyka-poziom-rozszerzony.pdf (8 pages, 59032 bytes).
 PDF statistics:
- 56 PDF objects out of 1000 (max. 8388607)
+ 64 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
  13 words of extra memory for PDF output out of 10000 (max. 10000000)
 
