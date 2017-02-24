@@ -14,3 +14,4 @@
 \contentsline {chapter}{\numberline {2}Rachunek r\IeC {\'o}\IeC {\.z}niczkowy}{5}
 \contentsline {section}{\numberline {2.1}Zadania zamkni\IeC {\k e}te}{5}
 \contentsline {paragraph}{Zadanie 2.1.}{5}
+\contentsline {paragraph}{Zadanie 2.2.}{5}
