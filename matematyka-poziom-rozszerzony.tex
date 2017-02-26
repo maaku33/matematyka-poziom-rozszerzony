@@ -11,6 +11,22 @@
 \usepackage{tasks}
 \usepackage{enumitem}
 
+\newcounter{chapc} % Chapter counter
+\newcounter{parc} % Paragraph counter
+
+\newcommand{\zadanie}{
+	\addtocounter{parc}{1} 
+	\paragraph{Zadanie \arabic{chapc}.\arabic{parc}.}
+}
+
+% custom chapter without the number in the table of contents
+\newcommand{\lightchapter}[2]{
+	\setcounter{chapter}{#1}
+	\setcounter{section}{0}
+	\chapter*{#2}
+	\addcontentsline{toc}{chapter}{#2}
+}
+
 \begin{document}
 
 \frontmatter
@@ -23,7 +39,7 @@
 	\vspace{3cm}
 	{ \itshape \large Marek Smolarczyk \par }
 	\vfill
-	{ \large v. 0.3.0 \par }
+	{ \large v. 1.0.0. \par }
 	\vspace{0.2cm}
 	{ \large \today \par }
 \end{titlepage}
@@ -34,8 +50,11 @@
 \tableofcontents
 
 \mainmatter
-\include{./TeX_files/chapter01}
-\include{./TeX_files/chapter02}
+\include{./TeX_files/chapter01} % Wielomiany
+\include{./TeX_files/chapter03} % Planimetria
+\include{./TeX_files/chapter02} % Rachunek różniczkowy
+
+\include{./TeX_files/rozwiazania} % odpowiedzi i rozwiązania zadań wszystkich rozdziałów
 
 \backmatter
 % bibliography, glossary and index would go here.

@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.15 (MiKTeX 2.9 64-bit) (preloaded format=pdflatex 2016.11.15)  24 FEB 2017 19:10
+This is pdfTeX, Version 3.14159265-2.6-1.40.15 (MiKTeX 2.9 64-bit) (preloaded format=pdflatex 2016.11.15)  26 FEB 2017 18:43
 entering extended mode
 **matematyka-poziom-rozszerzony.tex
 (matematyka-poziom-rozszerzony.tex
@@ -944,35 +944,38 @@ Package: enumitem 2011/09/28 v3.5.2 Customized lists
 \enit@inbox=\box58
 \enitdp@description=\count176
 )
-(matematyka-poziom-rozszerzony.aux (TeX_files/chapter01.aux)
-(TeX_files/chapter02.aux))
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 14.
-LaTeX Font Info:    ... okay on input line 14.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 14.
-LaTeX Font Info:    ... okay on input line 14.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 14.
-LaTeX Font Info:    ... okay on input line 14.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 14.
-LaTeX Font Info:    ... okay on input line 14.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 14.
-LaTeX Font Info:    ... okay on input line 14.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 14.
-LaTeX Font Info:    ... okay on input line 14.
-LaTeX Font Info:    Checking defaults for OT4/cmr/m/n on input line 14.
-LaTeX Font Info:    ... okay on input line 14.
+\c@chapc=\count177
+\c@parc=\count178
 
-("C:\Program Files\MiKTeX\tex\context\base\supp-pdf.mkii"
+(matematyka-poziom-rozszerzony.aux (TeX_files/chapter01.aux)
+(TeX_files/chapter03.aux) (TeX_files/chapter02.aux) (TeX_files/rozwiazania.aux)
+)
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 30.
+LaTeX Font Info:    ... okay on input line 30.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 30.
+LaTeX Font Info:    ... okay on input line 30.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 30.
+LaTeX Font Info:    ... okay on input line 30.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 30.
+LaTeX Font Info:    ... okay on input line 30.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 30.
+LaTeX Font Info:    ... okay on input line 30.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 30.
+LaTeX Font Info:    ... okay on input line 30.
+LaTeX Font Info:    Checking defaults for OT4/cmr/m/n on input line 30.
+LaTeX Font Info:    ... okay on input line 30.
+ ("C:\Program Files\MiKTeX\tex\context\base\supp-pdf.mkii"
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count177
+\scratchcounter=\count179
 \scratchdimen=\dimen267
 \scratchbox=\box59
-\nofMPsegments=\count178
-\nofMParguments=\count179
+\nofMPsegments=\count180
+\nofMParguments=\count181
 \everyMPshowfont=\toks38
-\MPscratchCnt=\count180
+\MPscratchCnt=\count182
 \MPscratchDim=\dimen268
-\MPnumerator=\count181
-\makeMPintoPDFobject=\count182
+\MPnumerator=\count183
+\makeMPintoPDFobject=\count184
 \everyMPtoPDFconversion=\toks39
 ) ABD: EveryShipout initializing macros [1
 
@@ -1019,7 +1022,7 @@ File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 (TeX_files/chapter01.tex
 Rozdzia\PlPrIeC {\l } 1.
 
-Overfull \hbox (47.21895pt too wide) in paragraph at lines 21--27
+Overfull \hbox (47.21895pt too wide) in paragraph at lines 24--30
  \OT4/cmr/bx/n/12 Za-da-nie 1.3.[] \OT4/cmr/m/n/12 Licz-ba $3$ jest pier-wiast-
 kiem wie-lo-mia-nu $[]$.
  []
@@ -1028,41 +1031,55 @@ kiem wie-lo-mia-nu $[]$.
 
 
 ]
-Overfull \hbox (2.89223pt too wide) in paragraph at lines 31--32
+Overfull \hbox (2.89223pt too wide) in paragraph at lines 34--35
 $[]$ \OT4/cmr/m/n/12 s¡ rów-ne dla war-to-±ci pa-
  []
 
-[2]) [3] (TeX_files/chapter02.tex [4
+[2]) [3] (TeX_files/chapter03.tex [4
 
 
 
 ]
 Rozdzia\PlPrIeC {\l } 2.
-) [5] [6
+) [5] (TeX_files/chapter02.tex [6
 
 
-] (matematyka-poziom-rozszerzony.aux (TeX_files/chapter01.aux)
-(TeX_files/chapter02.aux)) ) 
+
+]
+Rozdzia\PlPrIeC {\l } 3.
+) [7] (TeX_files/rozwiazania.tex
+\c@answchapc=\count185
+\c@answparc=\count186
+ [8
+
+
+
+]) [9] [10
+
+
+]
+(matematyka-poziom-rozszerzony.aux (TeX_files/chapter01.aux)
+(TeX_files/chapter03.aux) (TeX_files/chapter02.aux) (TeX_files/rozwiazania.aux)
+) ) 
 Here is how much of TeX's memory you used:
- 19919 strings out of 493698
- 393515 string characters out of 3146023
- 407403 words of memory out of 3000000
- 22910 multiletter control sequences out of 15000+200000
+ 19954 strings out of 493698
+ 394045 string characters out of 3146023
+ 410316 words of memory out of 3000000
+ 22931 multiletter control sequences out of 15000+200000
  13990 words of font info for 41 fonts, out of 3000000 for 9000
  1025 hyphenation exceptions out of 8191
  48i,6n,54p,10387b,235s stack positions out of 5000i,500n,10000p,200000b,50000s
-{C:/Program Files/MiKTeX/fonts/enc/dvips/pl/plms.en
-c}{C:/Program Files/MiKTeX/fonts/enc/dvips/pl/plrm.enc}{C:/Program Files/MiKTeX
-/fonts/enc/dvips/pl/plmi.enc}{C:/Program Files/MiKTeX/fonts/enc/dvips/pl/plit.e
-nc}<C:/Program Files/MiKTeX/fonts/type1/public/pl/plbx12.pfb><C:/Program Files/
-MiKTeX/fonts/type1/public/pl/plmi12.pfb><C:/Program Files/MiKTeX/fonts/type1/pu
-blic/pl/plr12.pfb><C:/Program Files/MiKTeX/fonts/type1/public/pl/plr8.pfb><C:/P
-rogram Files/MiKTeX/fonts/type1/public/pl/plsl12.pfb><C:/Program Files/MiKTeX/f
-onts/type1/public/pl/plsy10.pfb><C:/Program Files/MiKTeX/fonts/type1/public/pl/
-plti12.pfb>
-Output written on matematyka-poziom-rozszerzony.pdf (10 pages, 65450 bytes).
+{C:/Program Files/MiKTeX/fonts/enc/dvips/pl/plms.enc}{C:/Program Files/MiKTe
+X/fonts/enc/dvips/pl/plrm.enc}{C:/Program Files/MiKTeX/fonts/enc/dvips/pl/plmi.
+enc}{C:/Program Files/MiKTeX/fonts/enc/dvips/pl/plit.enc}<C:/Program Files/MiKT
+eX/fonts/type1/public/pl/plbx12.pfb><C:/Program Files/MiKTeX/fonts/type1/public
+/pl/plmi12.pfb><C:/Program Files/MiKTeX/fonts/type1/public/pl/plr12.pfb><C:/Pro
+gram Files/MiKTeX/fonts/type1/public/pl/plr8.pfb><C:/Program Files/MiKTeX/fonts
+/type1/public/pl/plsl12.pfb><C:/Program Files/MiKTeX/fonts/type1/public/pl/plsy
+10.pfb><C:/Program Files/MiKTeX/fonts/type1/public/pl/plti12.pfb>
+Output written on matematyka-poziom-rozszerzony.pdf (14 pages, 70659 bytes).
 PDF statistics:
- 70 PDF objects out of 1000 (max. 8388607)
+ 83 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
  13 words of extra memory for PDF output out of 10000 (max. 10000000)
 
