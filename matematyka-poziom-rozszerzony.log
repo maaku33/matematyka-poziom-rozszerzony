@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.15 (MiKTeX 2.9 64-bit) (preloaded format=pdflatex 2016.4.13)  27 FEB 2017 20:33
+This is pdfTeX, Version 3.14159265-2.6-1.40.15 (MiKTeX 2.9 64-bit) (preloaded format=pdflatex 2016.4.13)  3 MAR 2017 18:43
 entering extended mode
 **matematyka-poziom-rozszerzony.tex
 (matematyka-poziom-rozszerzony.tex
@@ -939,36 +939,38 @@ Package: enumitem 2011/09/28 v3.5.2 Customized lists
 )
 \c@chapc=\count177
 \c@parc=\count178
+\c@answchapc=\count179
+\c@answparc=\count180
 
 (matematyka-poziom-rozszerzony.aux (TeX_files/chapter04.aux)
 (TeX_files/chapter01.aux) (TeX_files/chapter03.aux) (TeX_files/chapter02.aux)
 (TeX_files/rozwiazania.aux))
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 30.
-LaTeX Font Info:    ... okay on input line 30.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 30.
-LaTeX Font Info:    ... okay on input line 30.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 30.
-LaTeX Font Info:    ... okay on input line 30.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 30.
-LaTeX Font Info:    ... okay on input line 30.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 30.
-LaTeX Font Info:    ... okay on input line 30.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 30.
-LaTeX Font Info:    ... okay on input line 30.
-LaTeX Font Info:    Checking defaults for OT4/cmr/m/n on input line 30.
-LaTeX Font Info:    ... okay on input line 30.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 42.
+LaTeX Font Info:    ... okay on input line 42.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 42.
+LaTeX Font Info:    ... okay on input line 42.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 42.
+LaTeX Font Info:    ... okay on input line 42.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 42.
+LaTeX Font Info:    ... okay on input line 42.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 42.
+LaTeX Font Info:    ... okay on input line 42.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 42.
+LaTeX Font Info:    ... okay on input line 42.
+LaTeX Font Info:    Checking defaults for OT4/cmr/m/n on input line 42.
+LaTeX Font Info:    ... okay on input line 42.
  (D:\TeX\MiKTeX\tex\context\base\supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count179
+\scratchcounter=\count181
 \scratchdimen=\dimen267
 \scratchbox=\box59
-\nofMPsegments=\count180
-\nofMParguments=\count181
+\nofMPsegments=\count182
+\nofMParguments=\count183
 \everyMPshowfont=\toks38
-\MPscratchCnt=\count182
+\MPscratchCnt=\count184
 \MPscratchDim=\dimen268
-\MPnumerator=\count183
-\makeMPintoPDFobject=\count184
+\MPnumerator=\count185
+\makeMPintoPDFobject=\count186
 \everyMPtoPDFconversion=\toks39
 ) ABD: EveryShipout initializing macros [1
 
@@ -1046,10 +1048,7 @@ Rozdzia\PlPrIeC {\l } 3.
 
 ]
 Rozdzia\PlPrIeC {\l } 4.
-) [9] (TeX_files/rozwiazania.tex
-\c@answchapc=\count185
-\c@answparc=\count186
- [10
+) [9] (TeX_files/rozwiazania.tex [10
 
 
 
@@ -1061,10 +1060,10 @@ Rozdzia\PlPrIeC {\l } 4.
 (TeX_files/chapter01.aux) (TeX_files/chapter03.aux) (TeX_files/chapter02.aux)
 (TeX_files/rozwiazania.aux)) ) 
 Here is how much of TeX's memory you used:
- 19962 strings out of 493698
- 391380 string characters out of 3150045
- 410672 words of memory out of 3000000
- 22932 multiletter control sequences out of 15000+200000
+ 19964 strings out of 493698
+ 391403 string characters out of 3150045
+ 410921 words of memory out of 3000000
+ 22934 multiletter control sequences out of 15000+200000
  13990 words of font info for 41 fonts, out of 3000000 for 9000
  1025 hyphenation exceptions out of 8191
  48i,6n,54p,10387b,235s stack positions out of 5000i,500n,10000p,200000b,50000s
@@ -1075,7 +1074,7 @@ l/plbx12.pfb><D:/TeX/MiKTeX/fonts/type1/public/pl/plmi12.pfb><D:/TeX/MiKTeX/fon
 ts/type1/public/pl/plr12.pfb><D:/TeX/MiKTeX/fonts/type1/public/pl/plr8.pfb><D:/
 TeX/MiKTeX/fonts/type1/public/pl/plsl12.pfb><D:/TeX/MiKTeX/fonts/type1/public/p
 l/plsy10.pfb><D:/TeX/MiKTeX/fonts/type1/public/pl/plti12.pfb>
-Output written on matematyka-poziom-rozszerzony.pdf (16 pages, 73513 bytes).
+Output written on matematyka-poziom-rozszerzony.pdf (16 pages, 73510 bytes).
 PDF statistics:
  89 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
