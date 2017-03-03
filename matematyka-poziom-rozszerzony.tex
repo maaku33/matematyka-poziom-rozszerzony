@@ -27,6 +27,18 @@
 	\addcontentsline{toc}{chapter}{#2}
 }
 
+% answer chapter counters
+\newcounter{answchapc}
+\newcounter{answparc}
+\newcommand{\odpowiedzi}[3]{%
+	\expandafter\newcommand\csname odp#1\endcsname{
+		\setcounter{answparc}{0}
+		\setcounter{answchapc}{#3}
+		#2
+	}%
+}
+\newcommand{\odpowiedz}{\addtocounter{answparc}{1} \paragraph{\arabic{answchapc}.\arabic{answparc}.}}
+
 \begin{document}
 
 \frontmatter
@@ -39,7 +51,7 @@
 	\vspace{3cm}
 	{ \itshape \large Marek Smolarczyk \par }
 	\vfill
-	{ \large v. 1.1.1. \par }
+	{ \large v. 1.2.0. \par }
 	\vspace{0.2cm}
 	{ \large \today \par }
 \end{titlepage}
