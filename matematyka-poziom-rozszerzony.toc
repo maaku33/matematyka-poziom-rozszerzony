@@ -22,13 +22,17 @@
 \contentsline {section}{\numberline {3.1}Zadania zamkni\IeC {\k e}te}{7}
 \contentsline {section}{\numberline {3.2}Zadania otwarte}{7}
 \contentsline {paragraph}{Zadanie 3.1.}{7}
-\contentsline {chapter}{\numberline {4}Rachunek r\IeC {\'o}\IeC {\.z}niczkowy}{9}
+\contentsline {chapter}{\numberline {4}Trygonometria}{9}
 \contentsline {section}{\numberline {4.1}Zadania zamkni\IeC {\k e}te}{9}
 \contentsline {paragraph}{Zadanie 4.1.}{9}
-\contentsline {chapter}{Odpowiedzi i rozwi\IeC {\k a}zania}{11}
-\contentsline {paragraph}{2.1.}{11}
-\contentsline {paragraph}{2.2.}{11}
-\contentsline {paragraph}{2.3.}{11}
-\contentsline {paragraph}{2.4.}{11}
-\contentsline {paragraph}{2.5.}{11}
-\contentsline {paragraph}{2.6.}{11}
+\contentsline {chapter}{\numberline {5}Rachunek r\IeC {\'o}\IeC {\.z}niczkowy}{11}
+\contentsline {section}{\numberline {5.1}Zadania zamkni\IeC {\k e}te}{11}
+\contentsline {paragraph}{Zadanie 5.1.}{11}
+\contentsline {paragraph}{Zadanie 5.2.}{11}
+\contentsline {chapter}{Odpowiedzi i rozwi\IeC {\k a}zania}{13}
+\contentsline {paragraph}{2.1.}{13}
+\contentsline {paragraph}{2.2.}{13}
+\contentsline {paragraph}{2.3.}{13}
+\contentsline {paragraph}{2.4.}{13}
+\contentsline {paragraph}{2.5.}{13}
+\contentsline {paragraph}{2.6.}{13}

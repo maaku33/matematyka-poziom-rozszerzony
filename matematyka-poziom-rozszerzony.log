@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.15 (MiKTeX 2.9 64-bit) (preloaded format=pdflatex 2016.4.13)  3 MAR 2017 18:43
+This is pdfTeX, Version 3.14159265-2.6-1.40.15 (MiKTeX 2.9 64-bit) (preloaded format=pdflatex 2016.4.13)  4 MAR 2017 16:47
 entering extended mode
 **matematyka-poziom-rozszerzony.tex
 (matematyka-poziom-rozszerzony.tex
@@ -943,8 +943,8 @@ Package: enumitem 2011/09/28 v3.5.2 Customized lists
 \c@answparc=\count180
 
 (matematyka-poziom-rozszerzony.aux (TeX_files/chapter04.aux)
-(TeX_files/chapter01.aux) (TeX_files/chapter03.aux) (TeX_files/chapter02.aux)
-(TeX_files/rozwiazania.aux))
+(TeX_files/chapter01.aux) (TeX_files/chapter03.aux) (TeX_files/chapter05.aux)
+(TeX_files/chapter02.aux) (TeX_files/rozwiazania.aux))
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 42.
 LaTeX Font Info:    ... okay on input line 42.
 LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 42.
@@ -959,7 +959,8 @@ LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 42.
 LaTeX Font Info:    ... okay on input line 42.
 LaTeX Font Info:    Checking defaults for OT4/cmr/m/n on input line 42.
 LaTeX Font Info:    ... okay on input line 42.
- (D:\TeX\MiKTeX\tex\context\base\supp-pdf.mkii
+
+(D:\TeX\MiKTeX\tex\context\base\supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
 \scratchcounter=\count181
 \scratchdimen=\dimen267
@@ -1042,41 +1043,48 @@ $[]$ \OT4/cmr/m/n/12 s¡ rów-ne dla war-to-±ci pa-
 
 ]
 Rozdzia\PlPrIeC {\l } 3.
-) [7] (TeX_files/chapter02.tex [8
+) [7] (TeX_files/chapter05.tex [8
 
 
 
 ]
 Rozdzia\PlPrIeC {\l } 4.
-) [9] (TeX_files/rozwiazania.tex [10
+) [9] (TeX_files/chapter02.tex [10
 
 
 
-]) [11] [12
+]
+Rozdzia\PlPrIeC {\l } 5.
+) [11] (TeX_files/rozwiazania.tex [12
+
+
+
+]) [13] [14
 
 
 ]
 (matematyka-poziom-rozszerzony.aux (TeX_files/chapter04.aux)
-(TeX_files/chapter01.aux) (TeX_files/chapter03.aux) (TeX_files/chapter02.aux)
-(TeX_files/rozwiazania.aux)) ) 
+(TeX_files/chapter01.aux) (TeX_files/chapter03.aux) (TeX_files/chapter05.aux)
+(TeX_files/chapter02.aux) (TeX_files/rozwiazania.aux)) ) 
 Here is how much of TeX's memory you used:
- 19964 strings out of 493698
- 391403 string characters out of 3150045
- 410921 words of memory out of 3000000
- 22934 multiletter control sequences out of 15000+200000
+ 19972 strings out of 493698
+ 391574 string characters out of 3150045
+ 411308 words of memory out of 3000000
+ 22935 multiletter control sequences out of 15000+200000
  13990 words of font info for 41 fonts, out of 3000000 for 9000
  1025 hyphenation exceptions out of 8191
  48i,6n,54p,10387b,235s stack positions out of 5000i,500n,10000p,200000b,50000s
-{D:/TeX/MiKTeX/fonts/enc/dvips/pl/plms.enc}{D:/Te
-X/MiKTeX/fonts/enc/dvips/pl/plrm.enc}{D:/TeX/MiKTeX/fonts/enc/dvips/pl/plmi.enc
-}{D:/TeX/MiKTeX/fonts/enc/dvips/pl/plit.enc}<D:/TeX/MiKTeX/fonts/type1/public/p
-l/plbx12.pfb><D:/TeX/MiKTeX/fonts/type1/public/pl/plmi12.pfb><D:/TeX/MiKTeX/fon
-ts/type1/public/pl/plr12.pfb><D:/TeX/MiKTeX/fonts/type1/public/pl/plr8.pfb><D:/
-TeX/MiKTeX/fonts/type1/public/pl/plsl12.pfb><D:/TeX/MiKTeX/fonts/type1/public/p
-l/plsy10.pfb><D:/TeX/MiKTeX/fonts/type1/public/pl/plti12.pfb>
-Output written on matematyka-poziom-rozszerzony.pdf (16 pages, 73510 bytes).
+{D:/TeX/MiKTeX/fonts/en
+c/dvips/pl/plms.enc}{D:/TeX/MiKTeX/fonts/enc/dvips/pl/plrm.enc}{D:/TeX/MiKTeX/f
+onts/enc/dvips/pl/plmi.enc}{D:/TeX/MiKTeX/fonts/enc/dvips/pl/plit.enc}<D:/TeX/M
+iKTeX/fonts/type1/public/pl/plbx12.pfb><D:/TeX/MiKTeX/fonts/type1/public/pl/plm
+i12.pfb><D:/TeX/MiKTeX/fonts/type1/public/pl/plr12.pfb><D:/TeX/MiKTeX/fonts/typ
+e1/public/pl/plr8.pfb><D:/TeX/MiKTeX/fonts/type1/public/pl/plsl12.pfb><D:/TeX/M
+iKTeX/fonts/type1/public/pl/plsy10.pfb><D:/TeX/MiKTeX/fonts/type1/public/pl/pls
+y6.pfb><D:/TeX/MiKTeX/fonts/type1/public/pl/plti12.pfb>
+Output written on matematyka-poziom-rozszerzony.pdf (18 pages, 79437 bytes).
 PDF statistics:
- 89 PDF objects out of 1000 (max. 8388607)
+ 99 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
  13 words of extra memory for PDF output out of 10000 (max. 10000000)
 
