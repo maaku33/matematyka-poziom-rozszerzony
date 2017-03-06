@@ -1,38 +1,54 @@
-\contentsline {chapter}{\numberline {1}Funkcje}{1}
+\contentsline {chapter}{\numberline {1}Wyra\IeC {\.z}enia algebraiczne}{1}
 \contentsline {section}{\numberline {1.1}Zadania zamkni\IeC {\k e}te}{1}
 \contentsline {section}{\numberline {1.2}Zadania otwarte}{1}
 \contentsline {paragraph}{Zadanie 1.1.}{1}
 \contentsline {paragraph}{Zadanie 1.2.}{1}
-\contentsline {chapter}{\numberline {2}Wielomiany}{3}
+\contentsline {chapter}{\numberline {2}Funkcje}{3}
 \contentsline {section}{\numberline {2.1}Zadania zamkni\IeC {\k e}te}{3}
+\contentsline {section}{\numberline {2.2}Zadania otwarte}{3}
 \contentsline {paragraph}{Zadanie 2.1.}{3}
 \contentsline {paragraph}{Zadanie 2.2.}{3}
 \contentsline {paragraph}{Zadanie 2.3.}{3}
-\contentsline {paragraph}{Zadanie 2.4.}{4}
-\contentsline {paragraph}{Zadanie 2.5.}{4}
-\contentsline {paragraph}{Zadanie 2.6.}{4}
-\contentsline {paragraph}{Zadanie 2.7.}{4}
-\contentsline {paragraph}{Zadanie 2.8.}{4}
-\contentsline {section}{\numberline {2.2}Zadania otwarte}{5}
-\contentsline {paragraph}{Zadanie 2.9.}{5}
-\contentsline {paragraph}{Zadanie 2.10.}{5}
-\contentsline {paragraph}{Zadanie 2.11.}{5}
-\contentsline {paragraph}{Zadanie 2.12.}{5}
-\contentsline {chapter}{\numberline {3}Planimetria}{7}
-\contentsline {section}{\numberline {3.1}Zadania zamkni\IeC {\k e}te}{7}
+\contentsline {paragraph}{Zadanie 2.4.}{3}
+\contentsline {paragraph}{Zadanie 2.5.}{3}
+\contentsline {paragraph}{Zadanie 2.6.}{3}
+\contentsline {paragraph}{Zadanie 2.7.}{3}
+\contentsline {chapter}{\numberline {3}Wielomiany}{5}
+\contentsline {section}{\numberline {3.1}Zadania zamkni\IeC {\k e}te}{5}
+\contentsline {paragraph}{Zadanie 3.1.}{5}
+\contentsline {paragraph}{Zadanie 3.2.}{5}
+\contentsline {paragraph}{Zadanie 3.3.}{5}
+\contentsline {paragraph}{Zadanie 3.4.}{6}
+\contentsline {paragraph}{Zadanie 3.5.}{6}
+\contentsline {paragraph}{Zadanie 3.6.}{6}
+\contentsline {paragraph}{Zadanie 3.7.}{6}
+\contentsline {paragraph}{Zadanie 3.8.}{6}
 \contentsline {section}{\numberline {3.2}Zadania otwarte}{7}
-\contentsline {paragraph}{Zadanie 3.1.}{7}
-\contentsline {chapter}{\numberline {4}Trygonometria}{9}
+\contentsline {paragraph}{Zadanie 3.9.}{7}
+\contentsline {paragraph}{Zadanie 3.10.}{7}
+\contentsline {paragraph}{Zadanie 3.11.}{7}
+\contentsline {paragraph}{Zadanie 3.12.}{7}
+\contentsline {paragraph}{Zadanie 3.13.}{7}
+\contentsline {paragraph}{Zadanie 3.14.}{7}
+\contentsline {paragraph}{Zadanie 3.15.}{7}
+\contentsline {paragraph}{Zadanie 3.16.}{7}
+\contentsline {chapter}{\numberline {4}Planimetria}{9}
 \contentsline {section}{\numberline {4.1}Zadania zamkni\IeC {\k e}te}{9}
+\contentsline {section}{\numberline {4.2}Zadania otwarte}{9}
 \contentsline {paragraph}{Zadanie 4.1.}{9}
-\contentsline {chapter}{\numberline {5}Rachunek r\IeC {\'o}\IeC {\.z}niczkowy}{11}
+\contentsline {paragraph}{Zadanie 4.2.}{9}
+\contentsline {paragraph}{Zadanie 4.3.}{9}
+\contentsline {chapter}{\numberline {5}Trygonometria}{11}
 \contentsline {section}{\numberline {5.1}Zadania zamkni\IeC {\k e}te}{11}
 \contentsline {paragraph}{Zadanie 5.1.}{11}
-\contentsline {paragraph}{Zadanie 5.2.}{11}
-\contentsline {chapter}{Odpowiedzi i rozwi\IeC {\k a}zania}{13}
-\contentsline {paragraph}{2.1.}{13}
-\contentsline {paragraph}{2.2.}{13}
-\contentsline {paragraph}{2.3.}{13}
-\contentsline {paragraph}{2.4.}{13}
-\contentsline {paragraph}{2.5.}{13}
-\contentsline {paragraph}{2.6.}{13}
+\contentsline {chapter}{\numberline {6}Rachunek r\IeC {\'o}\IeC {\.z}niczkowy}{13}
+\contentsline {section}{\numberline {6.1}Zadania zamkni\IeC {\k e}te}{13}
+\contentsline {paragraph}{Zadanie 6.1.}{13}
+\contentsline {paragraph}{Zadanie 6.2.}{13}
+\contentsline {chapter}{Odpowiedzi i rozwi\IeC {\k a}zania}{15}
+\contentsline {paragraph}{3.1.}{15}
+\contentsline {paragraph}{3.2.}{15}
+\contentsline {paragraph}{3.3.}{15}
+\contentsline {paragraph}{3.4.}{15}
+\contentsline {paragraph}{3.5.}{15}
+\contentsline {paragraph}{3.6.}{15}
