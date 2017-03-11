@@ -36,6 +36,12 @@
 \contentsline {section}{\numberline {4.1}Zadania zamkni\IeC {\k e}te}{9}
 \contentsline {paragraph}{Zadanie 4.1.}{9}
 \contentsline {section}{\numberline {4.2}Zadania otwarte}{9}
+\contentsline {paragraph}{Zadanie 4.2.}{9}
+\contentsline {paragraph}{Zadanie 4.3.}{9}
+\contentsline {paragraph}{Zadanie 4.4.}{9}
+\contentsline {paragraph}{Zadanie 4.5.}{10}
+\contentsline {paragraph}{Zadanie 4.6.}{10}
+\contentsline {paragraph}{Zadanie 4.7.}{10}
 \contentsline {chapter}{\numberline {5}Planimetria}{11}
 \contentsline {section}{\numberline {5.1}Zadania zamkni\IeC {\k e}te}{11}
 \contentsline {section}{\numberline {5.2}Zadania otwarte}{11}
