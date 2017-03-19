@@ -4,15 +4,38 @@
 \usepackage{polski}
 \usepackage[utf8]{inputenc}
 
-\usepackage{amssymb, amsmath, calc}
+\usepackage{amssymb, amsmath, calc, amsthm, latexsym}
 \usepackage{graphicx,graphics}
+\usepackage{tcolorbox}
 \usepackage{pgf,tikz}
 
 \usepackage{tasks}
 \usepackage{enumitem}
 
+\tcbuselibrary{skins,breakable} 
+
+\usepackage{answers}
+
+\setcounter{chapter}{0}
 \newcounter{chapc} % Chapter counter
 \newcounter{parc} % Paragraph counter
+
+\newtheorem{zadt}{Zadanie }
+\newenvironment{zad}{\begin{zadt}\normalfont}{\end{zadt}}
+
+\Newassociation{sol}{Soln}{ans}
+
+%\newtcolorbox{wwlistazadania}[1][]{#1}
+
+\NewDocumentEnvironment{zadania}{O{}}{%
+\expandafter\ifx\csname Closesolutionfile\endcsname \relax\else
+\Closesolutionfile{ans}\fi
+\Opensolutionfile{ans}
+ #1}{} % 
+\def\odpowiedzi{
+\expandafter\ifx\csname Closesolutionfile\endcsname \relax\else
+\Closesolutionfile{ans}\fi
+}
 
 \newcommand{\zadanie}{
 	\addtocounter{parc}{1} 
@@ -28,16 +51,16 @@
 }
 
 % answer chapter counters
-\newcounter{answchapc}
-\newcounter{answparc}
-\newcommand{\odpowiedzi}[3]{%
-	\expandafter\newcommand\csname odp#1\endcsname{
-		\setcounter{answparc}{0}
-		\setcounter{answchapc}{#3}
-		#2
-	}%
-}
-\newcommand{\odpowiedz}{\addtocounter{answparc}{1} \paragraph{\arabic{answchapc}.\arabic{answparc}.}}
+%\newcounter{answchapc}
+%\newcounter{answparc}
+%\newcommand{\odpowiedzi}[3]{%
+%	\expandafter\newcommand\csname odp#1\endcsname{
+%		\setcounter{answparc}{0}
+%		\setcounter{answchapc}{#3}
+%		#2
+%	}%
+%}
+%\newcommand{\odpowiedz}{\addtocounter{answparc}{1} \paragraph{\arabic{answchapc}.\arabic{answparc}.}}
 
 \begin{document}
 
@@ -61,6 +84,8 @@
 
 \tableofcontents
 
+\Opensolutionfile{ans}
+
 \mainmatter
 \include{./TeX_files/chapter06} % Wyrażenia algebraiczne
 \include{./TeX_files/chapter04} % Funkcje
@@ -69,6 +94,8 @@
 \include{./TeX_files/chapter03} % Planimetria
 \include{./TeX_files/chapter05} % Trygonometria
 \include{./TeX_files/chapter02} % Rachunek różniczkowy
+
+\Closesolutionfile{ans}
 
 \include{./TeX_files/rozwiazania} % odpowiedzi i rozwiązania zadań wszystkich rozdziałów
 
