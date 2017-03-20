@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.15 (MiKTeX 2.9 64-bit) (preloaded format=pdflatex 2016.11.15)  19 MAR 2017 18:02
+This is pdfTeX, Version 3.14159265-2.6-1.40.15 (MiKTeX 2.9 64-bit) (preloaded format=pdflatex 2016.11.15)  20 MAR 2017 09:26
 entering extended mode
 **matematyka-poziom-rozszerzony.tex
 (matematyka-poziom-rozszerzony.tex
@@ -1123,13 +1123,21 @@ Overfull \hbox (7.89665pt too wide) in paragraph at lines 96--96
 ±ci pa-ra-me-tru $\OML/plm/m/it/12 m$\OT4/cmr/m/n/12 , dla któ-rych mniej-
  []
 
-) [7] (TeX_files/chapter07.tex [8
-
-
-
-]
+) [7] [8] (TeX_files/chapter07.tex
 Rozdzia\PlPrIeC {\l } 4.
-[9]) [10] (TeX_files/chapter03.tex
+[9
+
+
+
+])
+Overfull \hbox (27.88698pt too wide) in paragraph at lines 39--93
+ \OT4/cmr/bx/n/12 Za-da-nie 4.11.[] \OT4/cmr/m/n/12 Funk-cja $\OML/plm/m/it/12 
+f\OT4/cmr/m/n/12 (\OML/plm/m/it/12 x\OT4/cmr/m/n/12 )$ okre-±lo-na jest wzo-rem
+ $\OML/plm/m/it/12 f\OT4/cmr/m/n/12 (\OML/plm/m/it/12 x\OT4/cmr/m/n/12 ) = []$,
+ dla $[]$.
+ []
+
+[10] (TeX_files/chapter03.tex
 Rozdzia\PlPrIeC {\l } 5.
 ) [11
 
@@ -1162,7 +1170,7 @@ Rozdzia\PlPrIeC {\l } 7.
 Here is how much of TeX's memory you used:
  22490 strings out of 493698
  460374 string characters out of 3146023
- 509579 words of memory out of 3000000
+ 509580 words of memory out of 3000000
  25404 multiletter control sequences out of 15000+200000
  14308 words of font info for 44 fonts, out of 3000000 for 9000
  1025 hyphenation exceptions out of 8191
@@ -1180,7 +1188,7 @@ blic/pl/plr8.pfb><C:/Program Files/MiKTeX/fonts/type1/public/pl/plsl12.pfb><C:/
 Program Files/MiKTeX/fonts/type1/public/pl/plsy10.pfb><C:/Program Files/MiKTeX/
 fonts/type1/public/pl/plsy6.pfb><C:/Program Files/MiKTeX/fonts/type1/public/pl/
 plsy8.pfb><C:/Program Files/MiKTeX/fonts/type1/public/pl/plti12.pfb>
-Output written on matematyka-poziom-rozszerzony.pdf (22 pages, 111261 bytes).
+Output written on matematyka-poziom-rozszerzony.pdf (22 pages, 115998 bytes).
 PDF statistics:
  132 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
