@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.15 (MiKTeX 2.9 64-bit) (preloaded format=pdflatex 2016.11.15)  20 MAR 2017 09:26
+This is pdfTeX, Version 3.14159265-2.6-1.40.15 (MiKTeX 2.9 64-bit) (preloaded format=pdflatex 2016.11.15)  20 MAR 2017 10:20
 entering extended mode
 **matematyka-poziom-rozszerzony.tex
 (matematyka-poziom-rozszerzony.tex
@@ -1088,18 +1088,19 @@ Output from handle ans going to ans.tex
 \ans@file=\write7
 [3] [4
 
-] (TeX_files/chapter06.tex
+] (TeX_files/chapter06.tex [1
+
+] [2
+
+]
 Rozdzia\PlPrIeC {\l } 1.
-) [1
-
-
-] (TeX_files/chapter04.tex [2
+) [3] (TeX_files/chapter04.tex [4
 
 
 
 ]
 Rozdzia\PlPrIeC {\l } 2.
-) [3] (TeX_files/chapter01.tex [4
+) [5] (TeX_files/chapter01.tex [6
 
 
 
@@ -1112,20 +1113,20 @@ Overfull \hbox (47.21895pt too wide) in paragraph at lines 30--36
 kiem wie-lo-mia-nu $[]$.
  []
 
-[5]
+[7]
 Overfull \hbox (2.89223pt too wide) in paragraph at lines 40--41
 $[]$ \OT4/cmr/m/n/12 s¡ rów-ne dla war-to-±ci pa-
  []
 
-[6]
+[8]
 Overfull \hbox (7.89665pt too wide) in paragraph at lines 96--96
  \OT4/cmr/bx/n/12 Za-da-nie 3.15.[] \OT4/cmr/m/n/12 Wy-znacz wszyst-kie war-to-
 ±ci pa-ra-me-tru $\OML/plm/m/it/12 m$\OT4/cmr/m/n/12 , dla któ-rych mniej-
  []
 
-) [7] [8] (TeX_files/chapter07.tex
+) [9] [10] (TeX_files/chapter07.tex
 Rozdzia\PlPrIeC {\l } 4.
-[9
+[11
 
 
 
@@ -1137,29 +1138,29 @@ f\OT4/cmr/m/n/12 (\OML/plm/m/it/12 x\OT4/cmr/m/n/12 )$ okre-±lo-na jest wzo-rem
  dla $[]$.
  []
 
-[10] (TeX_files/chapter03.tex
+[12] (TeX_files/chapter03.tex
 Rozdzia\PlPrIeC {\l } 5.
-) [11
+) [13
 
 
 
-] (TeX_files/chapter05.tex [12
+] (TeX_files/chapter05.tex [14
 
 
 
 ]
 Rozdzia\PlPrIeC {\l } 6.
-) [13] (TeX_files/chapter02.tex [14
+) [15] (TeX_files/chapter02.tex [16
 
 
 
 ]
 Rozdzia\PlPrIeC {\l } 7.
-) [15] (TeX_files/rozwiazania.tex [16
+) [17] (TeX_files/rozwiazania.tex [18
 
 
 
-] (ans.tex)) [17] [18
+] (ans.tex)) [19] [20
 
 
 ]
@@ -1170,27 +1171,29 @@ Rozdzia\PlPrIeC {\l } 7.
 Here is how much of TeX's memory you used:
  22490 strings out of 493698
  460374 string characters out of 3146023
- 509580 words of memory out of 3000000
+ 509581 words of memory out of 3000000
  25404 multiletter control sequences out of 15000+200000
  14308 words of font info for 44 fonts, out of 3000000 for 9000
  1025 hyphenation exceptions out of 8191
  54i,6n,84p,10387b,345s stack positions out of 5000i,500n,10000p,200000b,50000s
 {C:/Program Files/MiKTeX/fonts/enc/dvips/pl/plms.
 enc}{C:/Program Files/MiKTeX/fonts/enc/dvips/pl/plrm.enc}{C:/Program Files/MiKT
-eX/fonts/enc/dvips/pl/plmi.enc}{C:/Program Files/MiKTeX/fonts/enc/dvips/pl/plit
-.enc}<C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/symbols/msam10.pfb><C
-:/Program Files/MiKTeX/fonts/type1/public/amsfonts/symbols/msbm10.pfb><C:/Progr
-am Files/MiKTeX/fonts/type1/public/pl/plbx12.pfb><C:/Program Files/MiKTeX/fonts
-/type1/public/pl/plmi12.pfb><C:/Program Files/MiKTeX/fonts/type1/public/pl/plmi
-8.pfb><C:/Program Files/MiKTeX/fonts/type1/public/pl/plr12.pfb><C:/Program File
-s/MiKTeX/fonts/type1/public/pl/plr6.pfb><C:/Program Files/MiKTeX/fonts/type1/pu
-blic/pl/plr8.pfb><C:/Program Files/MiKTeX/fonts/type1/public/pl/plsl12.pfb><C:/
-Program Files/MiKTeX/fonts/type1/public/pl/plsy10.pfb><C:/Program Files/MiKTeX/
-fonts/type1/public/pl/plsy6.pfb><C:/Program Files/MiKTeX/fonts/type1/public/pl/
-plsy8.pfb><C:/Program Files/MiKTeX/fonts/type1/public/pl/plti12.pfb>
-Output written on matematyka-poziom-rozszerzony.pdf (22 pages, 115998 bytes).
+eX/fonts/enc/dvips/pl/plmi.enc}{C:/Program Files/MiKTeX/fonts/enc/dvips/pl/plme
+.enc}{C:/Program Files/MiKTeX/fonts/enc/dvips/pl/plit.enc}<C:/Program Files/MiK
+TeX/fonts/type1/public/amsfonts/symbols/msam10.pfb><C:/Program Files/MiKTeX/fon
+ts/type1/public/amsfonts/symbols/msbm10.pfb><C:/Program Files/MiKTeX/fonts/type
+1/public/pl/plbx12.pfb><C:/Program Files/MiKTeX/fonts/type1/public/pl/plex10.pf
+b><C:/Program Files/MiKTeX/fonts/type1/public/pl/plmi12.pfb><C:/Program Files/M
+iKTeX/fonts/type1/public/pl/plmi8.pfb><C:/Program Files/MiKTeX/fonts/type1/publ
+ic/pl/plr12.pfb><C:/Program Files/MiKTeX/fonts/type1/public/pl/plr6.pfb><C:/Pro
+gram Files/MiKTeX/fonts/type1/public/pl/plr8.pfb><C:/Program Files/MiKTeX/fonts
+/type1/public/pl/plsl12.pfb><C:/Program Files/MiKTeX/fonts/type1/public/pl/plsy
+10.pfb><C:/Program Files/MiKTeX/fonts/type1/public/pl/plsy6.pfb><C:/Program Fil
+es/MiKTeX/fonts/type1/public/pl/plsy8.pfb><C:/Program Files/MiKTeX/fonts/type1/
+public/pl/plti12.pfb>
+Output written on matematyka-poziom-rozszerzony.pdf (24 pages, 120534 bytes).
 PDF statistics:
- 132 PDF objects out of 1000 (max. 8388607)
+ 143 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
  13 words of extra memory for PDF output out of 10000 (max. 10000000)
 
