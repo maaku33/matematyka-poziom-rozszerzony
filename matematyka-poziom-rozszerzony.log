@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.15 (MiKTeX 2.9 64-bit) (preloaded format=pdflatex 2016.11.15)  2 APR 2017 16:07
+This is pdfTeX, Version 3.14159265-2.6-1.40.15 (MiKTeX 2.9 64-bit) (preloaded format=pdflatex 2016.11.15)  3 APR 2017 13:49
 entering extended mode
 **matematyka-poziom-rozszerzony.tex
 (matematyka-poziom-rozszerzony.tex
@@ -1009,8 +1009,9 @@ Package: answers 2014/08/24 v2.16 Production of solution sheets in LaTeX2e
 
 (matematyka-poziom-rozszerzony.aux (TeX_files/chapter06.aux)
 (TeX_files/chapter04.aux) (TeX_files/chapter01.aux) (TeX_files/chapter07.aux)
-(TeX_files/chapter03.aux) (TeX_files/chapter05.aux) (TeX_files/chapter08.aux)
-(TeX_files/chapter02.aux) (TeX_files/rozwiazania.aux))
+(TeX_files/chapter09.aux) (TeX_files/chapter03.aux) (TeX_files/chapter05.aux)
+(TeX_files/chapter08.aux) (TeX_files/chapter02.aux) (TeX_files/rozwiazania.aux)
+)
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 65.
 LaTeX Font Info:    ... okay on input line 65.
 LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 65.
@@ -1025,8 +1026,7 @@ LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 65.
 LaTeX Font Info:    ... okay on input line 65.
 LaTeX Font Info:    Checking defaults for OT4/cmr/m/n on input line 65.
 LaTeX Font Info:    ... okay on input line 65.
-
-("C:\Program Files\MiKTeX\tex\context\base\supp-pdf.mkii"
+ ("C:\Program Files\MiKTeX\tex\context\base\supp-pdf.mkii"
 [Loading MPS to PDF converter (version 2006.09.02).]
 \scratchcounter=\count183
 \scratchdimen=\dimen267
@@ -1081,16 +1081,15 @@ LaTeX Font Info:    Try loading font information for U+lasy on input line 2.
 
 ("C:\Program Files\MiKTeX\tex\latex\base\ulasy.fd"
 File: ulasy.fd 1998/08/17 v2.2e LaTeX symbol font definitions
-))
+) [3])
 \tf@toc=\write6
 
 Output from handle ans going to ans.tex
 \ans@file=\write7
-[3] [4
-
-] (TeX_files/chapter06.tex
+[4] (TeX_files/chapter06.tex
 Rozdzia\PlPrIeC {\l } 1.
 [1
+
 
 
 ]) [2] (TeX_files/chapter04.tex
@@ -1137,68 +1136,74 @@ f\OT4/cmr/m/n/12 (\OML/plm/m/it/12 x\OT4/cmr/m/n/12 )$ okre-±lo-na jest wzo-rem
  dla $[]$.
  []
 
-[10]) [11] (TeX_files/chapter03.tex [12
+[10]) [11] (TeX_files/chapter09.tex [12
 
 
 
 ]
 Rozdzia\PlPrIeC {\l } 5.
-) [13] (TeX_files/chapter05.tex [14
+) [13] (TeX_files/chapter03.tex [14
 
 
 
 ]
 Rozdzia\PlPrIeC {\l } 6.
-) [15] (TeX_files/chapter08.tex [16
+) [15] (TeX_files/chapter05.tex [16
 
 
 
 ]
 Rozdzia\PlPrIeC {\l } 7.
-) [17] (TeX_files/chapter02.tex [18
+) [17] (TeX_files/chapter08.tex [18
 
 
 
 ]
 Rozdzia\PlPrIeC {\l } 8.
-) [19] (TeX_files/rozwiazania.tex [20
+) [19] (TeX_files/chapter02.tex [20
 
 
 
-] (ans.tex)) [21] [22
+]
+Rozdzia\PlPrIeC {\l } 9.
+) [21] (TeX_files/rozwiazania.tex [22
+
+
+
+] (ans.tex)) [23] [24
 
 
 ]
 (matematyka-poziom-rozszerzony.aux (TeX_files/chapter06.aux)
 (TeX_files/chapter04.aux) (TeX_files/chapter01.aux) (TeX_files/chapter07.aux)
-(TeX_files/chapter03.aux) (TeX_files/chapter05.aux) (TeX_files/chapter08.aux)
-(TeX_files/chapter02.aux) (TeX_files/rozwiazania.aux)) ) 
+(TeX_files/chapter09.aux) (TeX_files/chapter03.aux) (TeX_files/chapter05.aux)
+(TeX_files/chapter08.aux) (TeX_files/chapter02.aux) (TeX_files/rozwiazania.aux)
+) ) 
 Here is how much of TeX's memory you used:
- 22498 strings out of 493698
- 460545 string characters out of 3146023
- 508992 words of memory out of 3000000
- 25405 multiletter control sequences out of 15000+200000
+ 22506 strings out of 493698
+ 460716 string characters out of 3146023
+ 509404 words of memory out of 3000000
+ 25406 multiletter control sequences out of 15000+200000
  14308 words of font info for 44 fonts, out of 3000000 for 9000
  1025 hyphenation exceptions out of 8191
  54i,6n,84p,10387b,345s stack positions out of 5000i,500n,10000p,200000b,50000s
-{C:/Program Files/MiKTe
-X/fonts/enc/dvips/pl/plms.enc}{C:/Program Files/MiKTeX/fonts/enc/dvips/pl/plrm.
-enc}{C:/Program Files/MiKTeX/fonts/enc/dvips/pl/plmi.enc}{C:/Program Files/MiKT
-eX/fonts/enc/dvips/pl/plme.enc}{C:/Program Files/MiKTeX/fonts/enc/dvips/pl/plit
-.enc}<C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/symbols/msam10.pfb><C
-:/Program Files/MiKTeX/fonts/type1/public/amsfonts/symbols/msbm10.pfb><C:/Progr
-am Files/MiKTeX/fonts/type1/public/pl/plbx12.pfb><C:/Program Files/MiKTeX/fonts
-/type1/public/pl/plex10.pfb><C:/Program Files/MiKTeX/fonts/type1/public/pl/plmi
-12.pfb><C:/Program Files/MiKTeX/fonts/type1/public/pl/plmi8.pfb><C:/Program Fil
-es/MiKTeX/fonts/type1/public/pl/plr12.pfb><C:/Program Files/MiKTeX/fonts/type1/
-public/pl/plr6.pfb><C:/Program Files/MiKTeX/fonts/type1/public/pl/plr8.pfb><C:/
-Program Files/MiKTeX/fonts/type1/public/pl/plsl12.pfb><C:/Program Files/MiKTeX/
-fonts/type1/public/pl/plsy10.pfb><C:/Program Files/MiKTeX/fonts/type1/public/pl
-/plsy6.pfb><C:/Program Files/MiKTeX/fonts/type1/public/pl/plsy8.pfb><C:/Program
- Files/MiKTeX/fonts/type1/public/pl/plti12.pfb>
-Output written on matematyka-poziom-rozszerzony.pdf (26 pages, 128099 bytes).
+{C:/Program Files/MiKTeX/fonts/enc/dvips/pl/plms.enc}{C:/Program Files/MiKTe
+X/fonts/enc/dvips/pl/plrm.enc}{C:/Program Files/MiKTeX/fonts/enc/dvips/pl/plmi.
+enc}{C:/Program Files/MiKTeX/fonts/enc/dvips/pl/plme.enc}{C:/Program Files/MiKT
+eX/fonts/enc/dvips/pl/plit.enc}<C:/Program Files/MiKTeX/fonts/type1/public/amsf
+onts/symbols/msam10.pfb><C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/sy
+mbols/msbm10.pfb><C:/Program Files/MiKTeX/fonts/type1/public/pl/plbx12.pfb><C:/
+Program Files/MiKTeX/fonts/type1/public/pl/plex10.pfb><C:/Program Files/MiKTeX/
+fonts/type1/public/pl/plmi12.pfb><C:/Program Files/MiKTeX/fonts/type1/public/pl
+/plmi8.pfb><C:/Program Files/MiKTeX/fonts/type1/public/pl/plr12.pfb><C:/Program
+ Files/MiKTeX/fonts/type1/public/pl/plr6.pfb><C:/Program Files/MiKTeX/fonts/typ
+e1/public/pl/plr8.pfb><C:/Program Files/MiKTeX/fonts/type1/public/pl/plsl12.pfb
+><C:/Program Files/MiKTeX/fonts/type1/public/pl/plsy10.pfb><C:/Program Files/Mi
+KTeX/fonts/type1/public/pl/plsy6.pfb><C:/Program Files/MiKTeX/fonts/type1/publi
+c/pl/plsy8.pfb><C:/Program Files/MiKTeX/fonts/type1/public/pl/plti12.pfb>
+Output written on matematyka-poziom-rozszerzony.pdf (28 pages, 129896 bytes).
 PDF statistics:
- 150 PDF objects out of 1000 (max. 8388607)
+ 156 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
  13 words of extra memory for PDF output out of 10000 (max. 10000000)
 
