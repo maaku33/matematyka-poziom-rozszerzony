@@ -96,6 +96,8 @@
 \contentsline {paragraph}{Zadanie 8.1.}{21}
 \contentsline {paragraph}{Zadanie 8.2.}{21}
 \contentsline {paragraph}{Zadanie 8.3.}{21}
+\contentsline {paragraph}{Zadanie 8.4.}{21}
+\contentsline {paragraph}{Zadanie 8.5.}{21}
 \contentsline {chapter}{\numberline {9}Rachunek r\IeC {\'o}\IeC {\.z}niczkowy}{23}
 \contentsline {section}{\numberline {9.1}Zadania zamkni\IeC {\k e}te}{23}
 \contentsline {paragraph}{Zadanie 9.1.}{23}
