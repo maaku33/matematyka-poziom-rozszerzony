@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.15 (MiKTeX 2.9 64-bit) (preloaded format=pdflatex 2016.11.15)  15 MAY 2017 09:24
+This is pdfTeX, Version 3.14159265-2.6-1.40.15 (MiKTeX 2.9 64-bit) (preloaded format=pdflatex 2016.11.15)  29 MAY 2017 12:47
 entering extended mode
 **matematyka-poziom-rozszerzony.tex
 (matematyka-poziom-rozszerzony.tex
@@ -1012,20 +1012,20 @@ Package: answers 2014/08/24 v2.16 Production of solution sheets in LaTeX2e
 (TeX_files/chapter09.aux) (TeX_files/chapter03.aux) (TeX_files/chapter05.aux)
 (TeX_files/chapter08.aux) (TeX_files/chapter02.aux) (TeX_files/rozwiazania.aux)
 )
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 65.
-LaTeX Font Info:    ... okay on input line 65.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 65.
-LaTeX Font Info:    ... okay on input line 65.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 65.
-LaTeX Font Info:    ... okay on input line 65.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 65.
-LaTeX Font Info:    ... okay on input line 65.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 65.
-LaTeX Font Info:    ... okay on input line 65.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 65.
-LaTeX Font Info:    ... okay on input line 65.
-LaTeX Font Info:    Checking defaults for OT4/cmr/m/n on input line 65.
-LaTeX Font Info:    ... okay on input line 65.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 72.
+LaTeX Font Info:    ... okay on input line 72.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 72.
+LaTeX Font Info:    ... okay on input line 72.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 72.
+LaTeX Font Info:    ... okay on input line 72.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 72.
+LaTeX Font Info:    ... okay on input line 72.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 72.
+LaTeX Font Info:    ... okay on input line 72.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 72.
+LaTeX Font Info:    ... okay on input line 72.
+LaTeX Font Info:    Checking defaults for OT4/cmr/m/n on input line 72.
+LaTeX Font Info:    ... okay on input line 72.
  ("C:\Program Files\MiKTeX\tex\context\base\supp-pdf.mkii"
 [Loading MPS to PDF converter (version 2006.09.02).]
 \scratchcounter=\count183
@@ -1180,10 +1180,10 @@ Rozdzia\PlPrIeC {\l } 9.
 (TeX_files/chapter08.aux) (TeX_files/chapter02.aux) (TeX_files/rozwiazania.aux)
 ) ) 
 Here is how much of TeX's memory you used:
- 22510 strings out of 493698
- 460756 string characters out of 3146023
- 509405 words of memory out of 3000000
- 25408 multiletter control sequences out of 15000+200000
+ 22511 strings out of 493698
+ 460762 string characters out of 3146023
+ 509412 words of memory out of 3000000
+ 25409 multiletter control sequences out of 15000+200000
  15340 words of font info for 46 fonts, out of 3000000 for 9000
  1025 hyphenation exceptions out of 8191
  54i,6n,84p,10387b,345s stack positions out of 5000i,500n,10000p,200000b,50000s
@@ -1204,7 +1204,7 @@ eX/fonts/type1/public/pl/plsl12.pfb><C:/Program Files/MiKTeX/fonts/type1/public
 gram Files/MiKTeX/fonts/type1/public/pl/plsy8.pfb><C:/Program Files/MiKTeX/font
 s/type1/public/pl/plti10.pfb><C:/Program Files/MiKTeX/fonts/type1/public/pl/plt
 i12.pfb>
-Output written on matematyka-poziom-rozszerzony.pdf (30 pages, 162934 bytes).
+Output written on matematyka-poziom-rozszerzony.pdf (30 pages, 163603 bytes).
 PDF statistics:
  174 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)

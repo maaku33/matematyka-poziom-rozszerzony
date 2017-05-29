@@ -100,6 +100,10 @@
 \contentsline {paragraph}{Zadanie 7.7.}{20}
 \contentsline {paragraph}{Zadanie 7.8.}{20}
 \contentsline {paragraph}{Zadanie 7.9.}{20}
+\contentsline {paragraph}{Zadanie 7.10.}{20}
+\contentsline {paragraph}{Zadanie 7.11.}{20}
+\contentsline {paragraph}{Zadanie 7.12.}{20}
+\contentsline {paragraph}{Zadanie 7.13.}{20}
 \contentsline {chapter}{\numberline {8}Granice}{21}
 \contentsline {section}{\numberline {8.1}Zadania otwarte}{21}
 \contentsline {paragraph}{Zadanie 8.1.}{21}
