@@ -121,4 +121,6 @@
 \contentsline {section}{\numberline {9.2}Zadania otwarte}{23}
 \contentsline {paragraph}{Zadanie 9.3.}{23}
 \contentsline {paragraph}{Zadanie 9.4.}{23}
+\contentsline {paragraph}{Zadanie 9.5.}{24}
+\contentsline {paragraph}{Zadanie 9.6.}{24}
 \contentsline {chapter}{Odpowiedzi i rozwi\IeC {\k a}zania}{25}
